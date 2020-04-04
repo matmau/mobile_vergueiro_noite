@@ -14,7 +14,7 @@ Desenvolver uma **Calculadora de IMC** que utilize o conceito de **Views, Bundle
 ![Title](atividade_imc.png)
 
 ## Equação para o Cáluculo do IMC
-<img src="https://render.githubusercontent.com/render/math?math=\large IMC = \frac{peso}{altura^2}">
+<img src="https://render.githubusercontent.com/render/math?math=\IMC = \frac{peso}{altura^2}">
 
 ## Tabela de Classificação Nutricional
 <p align="center" style="margin: auto;">
