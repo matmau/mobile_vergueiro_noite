@@ -9,4 +9,4 @@ Desenvolver uma **Calculadora de IMC** que utilize o conceito de **Intents**, co
 ![Title](atividade_imc.png)
 
 ## Tabela de Classificação
-![Title](tabela_imc.png)
+<center>![Title](tabela_imc.png)</center>
