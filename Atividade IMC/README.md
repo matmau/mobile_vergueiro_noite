@@ -10,5 +10,5 @@ Desenvolver uma **Calculadora de IMC** que utilize o conceito de **Intents**, co
 
 ## Tabela de Classificação
 <p style="text-align: center;">
-	<img src="tabela_imc.png"></center>
+	<img src="tabela_imc.png">
 </p>
