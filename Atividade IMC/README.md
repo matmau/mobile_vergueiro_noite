@@ -13,7 +13,8 @@ Desenvolver uma **Calculadora de IMC** que utilize o conceito de **Views, Bundle
 
 ![Title](atividade_imc.png)
 
-## Equação para o Cáluculo do IMC
+## Equação para o Cálculo do IMC
+<br>
 <p align="center" style="margin: auto;">
 	<img width="300" src="https://render.githubusercontent.com/render/math?math=\IMC = \frac{peso}{altura^2}">
 </p>
