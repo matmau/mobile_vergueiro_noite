@@ -1,9 +1,4 @@
 ## Atividade Individual
-* **Data de Entrega:** 17/04
-* **Valor:** 1.0
-* **Modo de Entrega:** Apresentação Online
-
-## Descrição
 Desenvolver uma **Calculadora de IMC** que utilize o conceito de **Views, Bundles e Intents**, conforme a figura abaixo. Utilize a tabela mostrada na figura 2 para apresentar o resultado da classificação do cálculo.
 
 **Requisitos:**
